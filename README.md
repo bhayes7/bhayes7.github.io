@@ -1,2 +1,2 @@
 # bhayes7.github.io
-Static GitHub page
+Future home of my personal website. Very, very much still in development.
