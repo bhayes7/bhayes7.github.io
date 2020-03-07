@@ -48,3 +48,10 @@ ul.posts li {
     list-style: none;
     font-family:'Lato', 'Sans-Serif';
 }
+
+figcaption {
+    font-size: 1.5em;
+    font-family:'Lato', 'Sans-Serif';
+    line-height: 1.4em;
+    color: #333;
+}
