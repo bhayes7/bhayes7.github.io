@@ -57,6 +57,7 @@ ul {
 ul li {
     list-style: none;
     font-family:'Lato', 'Sans-Serif';
+    margin: 10px 0;
 }
 
 ul.posts { 
