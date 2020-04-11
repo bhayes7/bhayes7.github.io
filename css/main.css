@@ -27,6 +27,16 @@ h1 {
     font-size: 3em;
     font-family:'Raleway', 'Arial', 'Sans-Serif';
 }
+h2 {
+    font-size: 2em;
+    font-family:'Raleway', 'Arial', 'Sans-Serif';
+    color: #808080;
+}
+h4 {
+    font-size: 1em;
+    font-family:'Raleway', 'Arial', 'Sans-Serif';
+    color: #808080;
+}
 p {
     font-size: 1.5em;
     font-family:'Lato', 'Sans-Serif';
@@ -36,6 +46,17 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+}
+
+ul { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+    font-family:'Lato', 'Sans-Serif';
+}
+
+ul li {
+    list-style: none;
+    font-family:'Lato', 'Sans-Serif';
 }
 
 ul.posts { 
